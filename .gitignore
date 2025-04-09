@@ -1,0 +1,41 @@
+# Fichiers générés par Dart
+.dart_tool/
+.packages
+
+# Fichiers générés par Flutter
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+.idea/
+.vscode/
+build/
+ios/Flutter/Flutter.framework/
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/App.framework
+ios/Flutter/Flutter.podspec.json
+android/.gradle/
+android/app/build/
+android/local.properties
+android/key.properties
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Logs et fichiers temporaires
+*.log
+*.tmp
+
+# Fichiers de test
+coverage/
+test-output/
+
+# Clés et secrets
+*.keystore
+*.jks
+*.pem
+*.p12
+*.crt
+*.key
+.env
