@@ -137,7 +137,7 @@ class _ChatScreenState extends State<ChatScreen> {
                           padding: const EdgeInsets.only(right: 2),
                           child: PlatformIndicator(platform: platform),
                         );
-                      }).toList(),
+                      }),
                     ],
                   ),
                 ],
